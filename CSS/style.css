@@ -1,3 +1,28 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+    background-color:darkslategrey;
+}
+.banner-column{
+    background-color:darkslateblue;
+}
+.navbar-container{
+    background-color:#000026;
+}
+.about-container{
+    background-color:darkslateblue;
+}
+.education-container{
+    background-color:gainsboro;
+}
+.education-text{
+color:indigo   
+}
+
+.circle{
+    background-color:#3E5A81;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
