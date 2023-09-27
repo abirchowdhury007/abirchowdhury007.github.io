@@ -8,7 +8,10 @@ body{
     background-color:darkslateblue;
 }
 .navbar-container{
+    top:0;
     background-color:#000026;
+    position:sticky;
+    z-index: 2;
 }
 .about-container{
     background-color:darkslateblue;
@@ -25,4 +28,19 @@ color:indigo
     width: 120px;
     height: 120px;
     border-radius: 50%;
+}
+
+.skill-container{
+    background-color:#3E5A81 ;
+}
+
+.form-container{
+    background-color: dimgray;
+}
+.colorcode{
+    background-color:mediumturquoise;
+}
+.colorcode:hover{
+    color: black!important;
+
 }
